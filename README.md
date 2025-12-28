@@ -9,6 +9,7 @@ A basic machine learning model that attempts to detect whether a 150px by 150px 
 ```
 python run.py path/to/image
 ```
+[ <i>Make sure you edit the 7th line of the Python script to select which model you are using</i> ]
 
 <br>
 
